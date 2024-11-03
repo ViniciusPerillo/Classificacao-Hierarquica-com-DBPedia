@@ -1,6 +1,6 @@
 # Classificação Hierárquica com DBPedia
 
-Este repositório contém o trabalho realizado para a disciplina de Aprendizado de Máquina 2, orientado pelo professor Murilo Coelho Naldi, na Universidade Federal de São Carlos (UFSCar). O projeto aborda a classificação hierárquica de textos da Wikipedia usando a base de dados DBPedia, focando na comparação entre técnicas de classificação plana e hierárquica.
+Este repositório contém o trabalho realizado para a disciplina de Aprendizado de Máquina 2 na Universidade Federal de São Carlos (UFSCar). O projeto aborda a classificação hierárquica de textos da Wikipedia usando a base de dados DBPedia, focando na comparação entre técnicas de classificação plana e hierárquica.
 
 ## Objetivo
 
